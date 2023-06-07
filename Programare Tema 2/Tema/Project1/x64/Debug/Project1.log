@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\Balu\Desktop\Programare Tema 2\Tema\Project1\Source.cpp(22,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Balu\Desktop\Programare Tema 2\Tema\Project1\Source.cpp(41,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Balu\Desktop\Programare Tema 2\Tema\Project1\Source.cpp(68,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Balu\Desktop\Programare Tema 2\Tema\Project1\Source.cpp(71,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Balu\Desktop\Programare Tema 2\Tema\Project1\Source.cpp(81,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Project1.vcxproj -> C:\Users\Balu\Desktop\Programare Tema 2\Tema\x64\Debug\Project1.exe
