@@ -22,15 +22,48 @@
 
   </div>
 
+
   <div id = "rightnav">
     <a href="Contact.html"><i class="fa fa-envelope" aria-hidden="true"></i> Contact</a>
     
   </div>
 
 
+
+
 </div>
+<script>
+  var i=0;
+  var images=[]
+  var time =1000;
+  //image list
+  images[0] ='Images/teslamodels.jpg';
+  images[1] ='Images/teslamodel3.jpg';
+  images[2] ='Images/teslamodelx.jpg';
+  images[3] ='Images/teslamodely.jpg';
 
+  function changeImg()
+  {
+    document.slide.src = images[i];
+  
 
+  if(i< images.length - 1)
+  {
+i++;
+  }
+  else
+  {
+    i=0;
+  }
+
+  setTimeout("changeImg()",time)
+
+  }
+
+  window.onload=changeImg;
+
+</script>
+<img name ="slide" width="400" height="200">
 <div id="Title">
  <p>This is the Main Hub !</p>
  <p>Above,there are the models of the Tesla car.</p>
@@ -38,6 +71,8 @@
  <p>All models benefit from a wide range of options, both technical and visual!</p>
  <p>Select an option from the navigation bar.</p>
 </div>
+
+
 
 
  
