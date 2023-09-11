@@ -112,7 +112,9 @@ Besides Relational Operators there are also other members of the "LargeNumber" C
 
  ### 1.8 Enums
 
- 
+ ![enum1](https://github.com/BaluIT-ist/Facultate/assets/122810689/4cd2c929-61b8-4982-8665-35cce988be45)
+
+![enum2](https://github.com/BaluIT-ist/Facultate/assets/122810689/f5401ea6-495f-4bb4-8b2d-d4a58a1822ab)
 
 This enumeration, ComparationEnum, defines the set of comparison operations that can be performed in a program. It provides a way to represent the outcomes of comparisons between values.
  
