@@ -26,6 +26,8 @@ Input 2 numbers from keyboard
 
 Below there are few example of how the code and the programm works !
 Sum:
+
+ 
  ![Captură de ecran 2023-09-11 233401](https://github.com/BaluIT-ist/Facultate/assets/122810689/e6643833-0a80-4180-929c-a07b3b9b9686)
 
 
