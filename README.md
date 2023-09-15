@@ -1,4 +1,4 @@
-# FacultateUniverisity Transilvania
+# Faculty : Univerisity of Transilvania
 Faculty : IESC
 Study program IEC(english)
 
