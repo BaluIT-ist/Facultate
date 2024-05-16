@@ -32,12 +32,7 @@ a {
     text-decoration:none;
 }
 
-#Title {
-    margin-top: calc(20% - 100px);
-    font-size: 50px;
-    font-weight: 1000;
-    text-align: center;
-}
+
 
 #Presentation {
     font-size: 19px;

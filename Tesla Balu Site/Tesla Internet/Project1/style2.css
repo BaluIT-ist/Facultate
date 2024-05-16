@@ -9,12 +9,23 @@ font-size: 20px;
 color:yellowgreen;
 
 }
-#Title
 
-{
+#Title{
   font-size: 40px;
   color:yellowgreen;
   text-shadow: 2px 2px 2px  black;
+   display: flex;
+  flex-direction: column;
+  justify-content: left;
+  align-items: left;
+  text-align: left;
+  margin-top: calc(20% - 100px);
+  font-size: 30px;
+  font-weight: 700;
+  color: whitesmoke;
+  padding-left: 50px;
+  line-height: 1.5;
+  width: 40%; /* Set a specific width */
 }
 
 .navbar {
@@ -39,16 +50,17 @@ background-color: transparent;
   padding-left: 10px;
   filter:hue-rotate(85deg) brightness(325%);
 }
-.navbar a {
+.navbar a 
+{
   float: left;
   text-align: center;
   padding: 12px;
   color: yellowgreen;
   text-decoration: none;
   font-size: 17px;
+}
 
   
-}
 
 
 .navbar a:hover {
