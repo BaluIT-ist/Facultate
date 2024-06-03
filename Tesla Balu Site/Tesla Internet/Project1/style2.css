@@ -83,3 +83,20 @@ background-color: transparent;
 
 
 
+/*imagechanger*/
+
+.mainimageschanger {
+    text-align: center;
+}
+
+
+#imagechanger {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+#change-image-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
