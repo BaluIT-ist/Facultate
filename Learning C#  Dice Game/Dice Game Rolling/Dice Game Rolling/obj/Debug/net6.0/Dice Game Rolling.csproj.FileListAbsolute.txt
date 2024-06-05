@@ -1,0 +1,15 @@
+D:\Proiecte\Dice Game C#\Dice Game Rolling\Dice Game Rolling\bin\Debug\net6.0\Dice Game Rolling.exe
+D:\Proiecte\Dice Game C#\Dice Game Rolling\Dice Game Rolling\bin\Debug\net6.0\Dice Game Rolling.deps.json
+D:\Proiecte\Dice Game C#\Dice Game Rolling\Dice Game Rolling\bin\Debug\net6.0\Dice Game Rolling.runtimeconfig.json
+D:\Proiecte\Dice Game C#\Dice Game Rolling\Dice Game Rolling\bin\Debug\net6.0\Dice Game Rolling.dll
+D:\Proiecte\Dice Game C#\Dice Game Rolling\Dice Game Rolling\bin\Debug\net6.0\Dice Game Rolling.pdb
+D:\Proiecte\Dice Game C#\Dice Game Rolling\Dice Game Rolling\obj\Debug\net6.0\Dice Game Rolling.csproj.AssemblyReference.cache
+D:\Proiecte\Dice Game C#\Dice Game Rolling\Dice Game Rolling\obj\Debug\net6.0\Dice Game Rolling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proiecte\Dice Game C#\Dice Game Rolling\Dice Game Rolling\obj\Debug\net6.0\Dice Game Rolling.AssemblyInfoInputs.cache
+D:\Proiecte\Dice Game C#\Dice Game Rolling\Dice Game Rolling\obj\Debug\net6.0\Dice Game Rolling.AssemblyInfo.cs
+D:\Proiecte\Dice Game C#\Dice Game Rolling\Dice Game Rolling\obj\Debug\net6.0\Dice Game Rolling.csproj.CoreCompileInputs.cache
+D:\Proiecte\Dice Game C#\Dice Game Rolling\Dice Game Rolling\obj\Debug\net6.0\Dice Game Rolling.dll
+D:\Proiecte\Dice Game C#\Dice Game Rolling\Dice Game Rolling\obj\Debug\net6.0\refint\Dice Game Rolling.dll
+D:\Proiecte\Dice Game C#\Dice Game Rolling\Dice Game Rolling\obj\Debug\net6.0\Dice Game Rolling.pdb
+D:\Proiecte\Dice Game C#\Dice Game Rolling\Dice Game Rolling\obj\Debug\net6.0\Dice Game Rolling.genruntimeconfig.cache
+D:\Proiecte\Dice Game C#\Dice Game Rolling\Dice Game Rolling\obj\Debug\net6.0\ref\Dice Game Rolling.dll

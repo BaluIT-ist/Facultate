@@ -1,0 +1,14 @@
+//
+// Created by Balu on 25.05.2024.
+//
+
+#ifndef CUSTOMPOLYNOMIAL_TYPEENUM_H
+#define CUSTOMPOLYNOMIAL_TYPEENUM_H
+
+enum TypeEnum : int {
+    NATURAL_NUMBERS = 1,
+    INTEGER_NUMBERS = 2,
+    REAL_NUMBERS = 3
+};
+
+#endif //CUSTOMPOLYNOMIAL_TYPEENUM_H

@@ -1,0 +1,23 @@
+//
+// Created by Balu on 25.05.2024.
+//
+
+#ifndef CUSTOMPOLYNOMIAL_MENUENUM_H
+#define CUSTOMPOLYNOMIAL_MENUENUM_H
+
+enum MenuEnum : int {
+    READ_FREOM_FILE = 1,
+    READ = 2,
+    SUM = 3,
+    SUBSTRACTION =4,
+    MULTIPLICATION = 5,
+    MULTIPLICATION_SCALAR = 6,
+    EQUALITY = 7,
+    COEFFICIENT = 8,
+    DEGREE = 9,
+    CALCULATE = 10,
+    HELP = 11,
+    EXIT = 12
+};
+
+#endif //CUSTOMPOLYNOMIAL_MENUENUM_H
