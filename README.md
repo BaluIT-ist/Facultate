@@ -19,7 +19,7 @@ Copyright - [DenisaXXIV](https://github.com/BaluIT-ist)
 
 | Semester | Discipline                                                                                                                                       | Code   | Details   | 
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------ | --------- | 
-| II       | Web Proggraming                                                                                        					      | PrWeb  | Html,CSS  | 
+| II       | Web Programing                                                                                        					      | PrWeb  | Html,CSS  | 
 | II       | Computer Aided Graphics										              				      | Graph  | AutoCAD   | 
 | II       | Special mathematics				  			 		 	 				              | Math   | Math      | 
 | II       | Computer programming and programming languages ​​II 			 		 						  	      | PCLP2  | C++       |
