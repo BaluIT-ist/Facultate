@@ -51,6 +51,20 @@ Copyright - [DenisaXXIV](https://github.com/BaluIT-ist)
 | II       | Field practice            			 	 	 		 	 	 	 	 	                             				   	      | PRAC | Practice   |
 
 
+## III. *Year III*:
+
+
+## IV. *Year IV*:
+
+## V. *Courses/Learning*:
+
+| No.      | Subject                                                                                                                                                                                  | Details| 
+| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |  
+| 1        | WPF                      																		      | C#   |
+| 2        | Java Swing                          																| Java | 
+| 3        | Learning C# / Dice Game                                            | C#   | 
+| 4        | Learning C# / Calculator															   	          | TCE  | 
+| 5        | [Simple GUI Calculator in Python/tutorial](https://www.youtube.com/watch?v=NzSCNjn4_RI) 	 	 	 	 	 	 	 			 	 	 				      | Python | 
 
 
 
@@ -60,4 +74,5 @@ Copyright - [DenisaXXIV](https://github.com/BaluIT-ist)
 
 
 
-| II       | Specialty Didactics (Pedagogy)                                                                                                                                                           
+
+                                                                                                                                                     
