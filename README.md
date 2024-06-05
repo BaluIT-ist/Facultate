@@ -66,6 +66,7 @@ Copyright - [BaluIT-ist](https://github.com/BaluIT-ist)
 | 4        | Learning C# / Calculator															   	          | TCE  | 
 | 5        | [Simple GUI Calculator in Python/tutorial](https://www.youtube.com/watch?v=NzSCNjn4_RI) 	 	 	 	 	 	 	 			 	 	 				      | Python | 
 | 6        | Website HomeWork 														   	          | HTML,CSS,JS  | 
+| 6        | Polynomial Theme Homework 														   	          | C++  | 
 
 
 
