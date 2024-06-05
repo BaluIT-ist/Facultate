@@ -1,8 +1,8 @@
-# Faculty of Mathematics and Computer Science Materials
+# Faculty of Electrical Engineering and Computer Science
 
-In this repository you can find all homeworks, projects and resources regarding my studies at the **University Transilvania of Brasov** (**Bachelor in Computer Science**), years: 2020-2023.<br>
+In this repository you can find projects and resources regarding my studies at the **University Transilvania of Brasov**.<br>
 You may use these materials as long as you mention the source and the author. <br>
-Copyright - [DenisaXXIV](https://github.com/BaluIT-ist)
+Copyright - [BaluIT-ist](https://github.com/BaluIT-ist)
 
 ## I. *Year I*:
 
@@ -65,6 +65,7 @@ Copyright - [DenisaXXIV](https://github.com/BaluIT-ist)
 | 3        | Learning C# / Dice Game                                            | C#   | 
 | 4        | Learning C# / Calculator															   	          | TCE  | 
 | 5        | [Simple GUI Calculator in Python/tutorial](https://www.youtube.com/watch?v=NzSCNjn4_RI) 	 	 	 	 	 	 	 			 	 	 				      | Python | 
+| 6        | Website HomeWork 														   	          | HTML,CSS,JS  | 
 
 
 
