@@ -1,3 +1,5 @@
+package binaries;
+
 import java.util.Scanner;
 
 public class cifrebinare {
