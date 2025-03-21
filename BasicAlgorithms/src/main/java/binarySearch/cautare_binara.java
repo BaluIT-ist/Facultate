@@ -29,7 +29,7 @@ public class cautare_binara {
         for (int i = 0; i < m; i++) {
             if (binarySearch(inputArray, VerifyArray[i])) {
                 countingArray[i] = 1;
-            } else {3
+            } else {
                 countingArray[i] = 0;
             }
         }
