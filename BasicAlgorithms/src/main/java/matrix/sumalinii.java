@@ -2,14 +2,15 @@ package matrix;
 
 import java.util.Scanner;
 
-public class sumapare2 {
+public class sumalinii {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         int m = sc.nextInt();
-        int S = 0;   // even numbers sum
         int[][] baseMatrix = new int[n][m];
+        int[] sumArray=new int[n];
+
 
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
@@ -18,16 +19,18 @@ public class sumapare2 {
         }
 
         for (int i = 0; i < n; i++) {
+            int s = 0 ;
             for (int j = 0; j < m; j++) {
-                if (baseMatrix[i][j] % 2 == 0) {
-                    S = S + baseMatrix[i][j];
-                }
+                s=s+baseMatrix[i][j];
+
             }
-
+            sumArray[i]=s;
         }
-        System.out.println(S);
 
-
+        for(int i=0;i<n;i++)
+        {
+            System.out.print(sumArray[i]+" ");
+        }
 
     }
 }
