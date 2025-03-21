@@ -29,7 +29,7 @@ public class sumalinii {
 
         for(int i=0;i<n;i++)
         {
-            System.out.print(sumArray[i]+" ");
+            System.out.println(sumArray[i]+" ");
         }
 
     }
