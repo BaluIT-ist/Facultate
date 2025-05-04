@@ -2,8 +2,7 @@ package queues;
 
 public class Nod {
     int info;
-    Nod nod = null ;
-
+    Nod next = null ;
 
     public Nod(int info){
         this.info = info;
@@ -11,6 +10,6 @@ public class Nod {
 
     public Nod(int info,Nod nod){
         this.info=info;
-        this.nod=nod;
+        this.next=nod;
     }
 }
