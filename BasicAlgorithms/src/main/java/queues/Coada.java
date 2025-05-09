@@ -86,7 +86,7 @@ public class Coada {
         this.lastNode=lastNode;
     }
     public Coada(){
-        // AM MODIFICAT INAPOI CU NULL SI AM STERS CONSTRUCTORUL DIN NOD CA ERA GRESIT
+
         this.firstNode=null;
         this.lastNode=null;
     }
@@ -111,7 +111,7 @@ public class Coada {
                 aux = aux.next;
             } while (aux != null);
 
-            // AICI TREBUIA AFISAT DIRECT, NU RETURNAT ( MAI ALES CA AI UITAT SA AFISEZI !!! )
+
             System.out.println(sb);
 
         }
